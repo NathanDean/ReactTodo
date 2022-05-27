@@ -71,6 +71,9 @@ input[type="text"] {
   border-radius: 0;
 }
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   max-width: 68rem;
   margin: 0 auto;
