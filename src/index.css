@@ -80,7 +80,7 @@ body {
   margin: 0 auto;
   font: 1.6rem/1.25 "outfit", sans-serif;
   letter-spacing: .3rem;
-  background-color: var(--lightBlue);
+  background-color: var(--darkBlue);
   color: var(--darkGrey);
 }
 @media screen and (min-width: 620px) {
