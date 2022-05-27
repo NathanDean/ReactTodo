@@ -71,9 +71,7 @@ input[type="text"] {
   border-radius: 0;
 }
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  height: 100vw;
   width: 100%;
   max-width: 68rem;
   margin: 0 auto;
@@ -167,6 +165,11 @@ body {
   margin-top: 1.2rem;
 }
 /* END GLOBAL STYLES */
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .todoapp {
   background: var(--offWhite);
   margin: 2rem 0 4rem 0;
