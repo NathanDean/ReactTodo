@@ -1,4 +1,5 @@
-**React todo app
+# React todo app
+
 
 A React todo app using props, state and hooks which gives the user the ability to:
 
