@@ -92,13 +92,13 @@ function App(props) {
   let taskVerb;
 
   if(filter === "Active"){
-    taskVerb = "active"
+    taskVerb = "remaining"
   }
   else if (filter === "Completed"){
     taskVerb = "completed"
   }
   else {
-    taskVerb = "remaining"
+    taskVerb = ""
   }
 
   const heading = `${taskCount} ${taskNoun} ${taskVerb}`;
