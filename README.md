@@ -1,3 +1,7 @@
+# React todo app
+
+Deployed to Heroku <a href="https://whispering-cliffs-16765.herokuapp.com/">here</a>.
+
 A React todo app using props, state and hooks which gives the user the ability to:
 
 * Add, edit and delete tasks
